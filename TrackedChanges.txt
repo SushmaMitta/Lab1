@@ -1,3 +1,9 @@
+# This is a file about all the changes that happened
+# in Iteration 1!
+# All the changes are documented along with SHA number.
+
+
+
 S.No.		Change			SHA Number
 1.		File is created		c63b5f55437d92efd1022e69d8b3378e2a52c91a
 2.		Email is updated	74c6fb6064fcf8d31c5a7db78e4f624256fa9850
